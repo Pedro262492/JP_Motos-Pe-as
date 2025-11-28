@@ -483,14 +483,14 @@ body{
 .menufechai{
     position: relative;
     left: 30px;
-    opacity: 100%;
+    opacity: 0%;
     top: 40px;
 
 }
 .menufecha{
     position: relative;
     left: 30px;
-    opacity: 100%;
+    opacity: 0%;
     top: 40px;
 
 }
